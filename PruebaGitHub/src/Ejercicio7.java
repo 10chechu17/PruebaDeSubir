@@ -22,6 +22,7 @@ public class Ejercicio7 {
                     System.out.println(linea);
                 }
             }br.close();
+           System.out.println("Hicham la chupa");
         } catch (Exception e) {
             System.out.println("Esto es un error de mierda: "+e);
            System.out.println("Chechu la esta liando");
