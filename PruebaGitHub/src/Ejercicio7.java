@@ -24,6 +24,8 @@ public class Ejercicio7 {
             }br.close();
         } catch (Exception e) {
             System.out.println("Esto es un error de mierda: "+e);
+           System.out.println("Chechu la esta liando");
+           
         } 
     }
 }
